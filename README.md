@@ -2,6 +2,9 @@
 A Repo containing various Ressources to Understand the Transformer model
 
 ## Basics:
+The [Google Research Blog Article](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html), describing the architecture + some good intuition tips
+
+
 ## Advanced:
 * Let's start with [Attention is all you need](https://arxiv.org/abs/1706.03762) The original Paper.
 * A great Blog article By Harvard Nlp [Annotated Transformer](nlp.seas.harvard.edu/2018/04/03/attention.html). 
