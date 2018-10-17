@@ -5,6 +5,7 @@ A Repo containing various Ressources to Understand the Transformer model
 * The [Google Research Blog Article](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html), describing the architecture + some good intuition tips
 * [The Tensor2tensor lib ](https://github.com/tensorflow/tensor2tensor#language-modeling) to see the "official" implementation and experiment.
 * [The explanation of Attention layer](http://nlp.seas.harvard.edu/2018/04/03/attention.html#Attention) wich are at the core of the model
+* [Google Paper] (https://arxiv.org/pdf/1803.02155.pdf) explaining the Attention & positional Embeddings.
 
 ## Advanced:
 * Let's start with [Attention is all you need](https://arxiv.org/abs/1706.03762) The original Paper.
